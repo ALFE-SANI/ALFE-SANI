@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm ALFE SANI</h1>
 <h3 align="center">A passionate frontend developer from BANGLADESH</h3>
 
-https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfe-sani&label=Profile%20views&color=0e75b6&style=flat" alt="alfe-sani" /> </p>
 
